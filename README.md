@@ -1,5 +1,6 @@
-# TCC-My-Brain-Computer-Interface
-
+# My Brain Computer Interface
+***
+![capa logo](/pic/capa.PNG)
 ### 1. PROPOSTA
 
 Neste presente Trabalho de Conclusão de Curso, primeiramente é desenvolvido e proposto o projeto de um circuito de Eletroencefalograma (EEG) de baixo custo. Em seguida, sinais cerebrais são registrados e analisados, submetendo-os às principais técnicas de pré-processamento, extração de características e classificação de sinais, existentes na área. Essas técnicas são utilizadas como ferramentas a fim de contornar as dificuldades de se lidar com os sinais de baixa intensidade e com muito ruído. Esse trabalho tem como o objetivo abordar essas principais técnicas trazendo uma interação entre diferentes metodologias, aplicadas a uma ICC de baixo custo e de apenas um canal, explorando os resultados de performance em modo offline.
@@ -37,3 +38,11 @@ Para iniciar o processo de treinamento dos modelos, a matriz de características
 
 ### 3. CONTEÚDO DO REPOSITÓRIO
 O projeto da Interface cérebro-Computador ainda está em andamento, porém nesse repositório é possivel encontrar o modelo de notebook que foi usado para explorar, pré-processar e treinar os modelos. Além disso, está presente o código de uma GUI que está sendo desenvolvida para mostrar em tempo real a onda capitada em tempo real e tambem a sua classificação.
+
+### 4. IMAGENS
+
+![gui logo](/pic/gui.PNG)
+
+
+![fot logo](/pic/circfot.PNG)
+
